@@ -13,9 +13,8 @@
 	</head>
 	<body>
 		<div id="wrap">
-			<h1>메인페이지</h1>
-			<hr>
-			
+			<h1>메인페이지(수정)</h1>
+			<img src="/webapp/test.png" alt="">
 		</div>	
 		<!-- div#wrap -->
 		<script src="https://code.jquery.com/jquery-3.6.4.js" 
